@@ -9,7 +9,7 @@
  * Alumno: [Tu Nombre]
  * Dominio: [tu dominio: restaurante, farmacia, libreria, ...]
  */
-public class Servidor {
+public class ServidorPedidos {
 
     public static void main(String[] args) {
         System.out.println("Servidor listo.");

@@ -21,9 +21,11 @@ multiples cajas registradoras y gestiona el inventario compartido.")*
 
 ```bash
 cd src
-javac Servidor.java
-java Servidor
+javac ServidorPedidos.java
+java ServidorPedidos
 ```
+
+Debe imprimir `Servidor listo.`
 
 ---
 
@@ -31,9 +33,10 @@ java Servidor
 
 ```
 src/
-  Servidor.java    <- servidor principal, crece con cada unidad del curso
-BITACORA.md        <- explicacion semanal de lo aprendido
-README.md          <- este archivo
+  ServidorPedidos.java   <- servidor principal, crece con cada unidad del curso
+catalogo.txt             <- catalogo de productos/servicios de tu dominio
+BITACORA.md              <- explicacion semanal de lo aprendido
+README.md                <- este archivo
 ```
 
 ---

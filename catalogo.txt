@@ -1,0 +1,6 @@
+# Catalogo de productos o servicios de tu dominio.
+# Formato sugerido (una linea por producto): id,nombre,precio,existencia
+# Reemplaza estos ejemplos por los productos de TU dominio.
+1,Producto de ejemplo A,50.00,10
+2,Producto de ejemplo B,25.50,20
+3,Producto de ejemplo C,120.00,5
